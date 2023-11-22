@@ -2,7 +2,7 @@
 
 Kagi Assistant is a product feature backed by Kagi Search and large language models.
 
-> Kagi Assistant is currently in closed beta and rolled out daily to Ultimate plan members. Assistant will be available soon for all members.
+> Kagi Assistant is currently in closed beta and only available to Ultimate plan members. While a public release date is not certain right now, we recommend checking for updates in the ![Kagi Discord](https://kagi.com/discord).
 
 ## Assistant Modes
 
